@@ -42,9 +42,9 @@ Heavier use goes with lower mental health scores. Students in the Negative group
 
 ## Files
 
-- `Social_Media_Impact_Analysis.xlsx`: the workbook with the data and the pivot analysis
-- `Social_media_impact_on_life.csv`: the original dataset
-- `images/`: screenshots of the pivot table and charts
+- `Social_Media_Impact_Analysis.xlsx`
+- `Social_media_impact_on_life.csv`
+- `images/`
 
 ## Next steps
 
